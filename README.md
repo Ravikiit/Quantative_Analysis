@@ -1,5 +1,6 @@
 # Quantative_Analysis 
-In this Project, we  focused on Finance, covering many tools and techniques used by finance professionals daily:   
+In this Project, we  focused on Financial Analysis covering many tools and techniques used by finance professionals daily . We  performed calculations on following  Quantative Aspects : 
+
 1.Rate of return of stocks  
 2.Risk of stocks  
 3.Rate of return of stock portfolios  
